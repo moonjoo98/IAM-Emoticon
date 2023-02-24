@@ -10,8 +10,8 @@
 
 ### Use model and library
 
-[이미지 생성] - Stylegan2 (pretrained-model)
-[사진 감정 분류] - FER (library)
+[이미지 생성] - Stylegan2 (pretrained-model)</br>
+[사진 감정 분류] - FER (library)</br>
 [감정에 따른 텍스트 생성] - KoGPT2(pretrained-model)
 
 ### FLOW
